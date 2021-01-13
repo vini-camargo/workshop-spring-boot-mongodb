@@ -1,0 +1,7 @@
+package com.viniciuscamargo.workshopmongo.resources.exceptions;
+
+public class StandardError {
+
+	private String
+	
+}

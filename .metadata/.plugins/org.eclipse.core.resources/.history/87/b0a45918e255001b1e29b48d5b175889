@@ -1,0 +1,5 @@
+package com.viniciuscamargo.workshopmongo.services.exceptions;
+
+public class ObjectNotFoundException {
+
+}
